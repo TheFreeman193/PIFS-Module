@@ -1,0 +1,6 @@
+[submodule "pifs_collection"]
+	path = src/sources/pifs
+	url = git@github.com:TheFreeman193/PIFS
+[submodule "apk_patcher"]
+	path = includes/apkpatch
+	url = git@github.com:osm0sis/APK-Patcher
