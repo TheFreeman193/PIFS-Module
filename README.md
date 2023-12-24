@@ -1,5 +1,25 @@
 # Profile (Fingerprint) Selector For Play Integrity Fix
 
+## Development will continue after the holidays -TF
+
+```text
+     * | *  
+   \        /
+ *     /\     *
+ -   <    >   -
+  /   \/\/   \
+       /\    
+      /\*\  
+     /\/\*\  
+    /*/\/\/\   
+   /\O\/\*\/\  
+  /\*\/\*\/\/\ 
+ /\O\/\/*/\/O/\   _8_
+  _8_  ||   _8_  |_|_|
+ |_|_| ||  |_|_| |_|_|
+ |_|_| ||  |_|_|
+```
+
 This Magisk/KernelSU module makes swapping out your device profile for the [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix) or [PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) modules simple.
 
 When installed, the module defaults to using the latest profile from the [Xiaomi.EU](https://xiaomi.eu) project, and keeps this up-to-date.
